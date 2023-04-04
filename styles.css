@@ -3,6 +3,7 @@
 
 .box {
 	border: 3px solid black;
+	width: 300px;
 }
 
 .box1 {
@@ -19,7 +20,6 @@
 }
 
 .box4 {
-	width: 300px;
 	border: 2px solid black;
 }
 
